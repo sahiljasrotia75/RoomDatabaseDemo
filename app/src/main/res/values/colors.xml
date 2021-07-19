@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_signup">#222</color>
+    <color name="dialog_divider">#33222222</color>
+    <color name="divider">#33222222</color>
+    <color name="hint_color">#515151</color>
+    <color name="yellow">#BB9900</color>
+    <color name="yellow1">#D7B51D</color>
+    <color name="white">#FBFBFB</color>
+    <color name="white_image">#FFF</color>
+    <color name="black_continue">#1C1C1C</color>
+    <color name="dot_color">#151515</color>
+    <color name="dash_bg">#F9F9F9</color>
+    <color name="colorRed">#E80004</color>
+    <color name="vehicle_number">#B3515151</color>
+    <color name="card_bg">#FFF8D8</color>
+    <color name="approved_bg">#358630</color>
+    <color name="color_gray">#C6B4B4</color>
+    <color name="orange">#F44336</color>
+
+</resources>

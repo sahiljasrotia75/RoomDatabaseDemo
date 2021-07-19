@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoApplication</string>
+    <string name="alert">Alert!!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_password_email">The email and password must be provided.</string>
+    <string name="enter_email">The email must be provided.</string>
+    <string name="enter_valid_email">The valid email address must be provided.</string>
+    <string name="enter_password">The password must be provided.</string>
+</resources>
